@@ -9,3 +9,4 @@ pythagoras <- function(a=0,b=0,c=0){
   sqrt(abs(c^2 - a^2 - b^2))
 }
 
+# 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
