@@ -1,0 +1,18 @@
+- Github profile: https://github.com/soonsk-vcu
+
+- Below is the text output of all files/folders in .git. I see that we have a file containing our commit message, config and description files, as well as other files and folders. There are in total 5 files and 5 directories in .git:
+
+09/19/2023  08:28 PM    <DIR>          ..
+09/19/2023  05:01 PM                 8 COMMIT_EDITMSG
+09/19/2023  05:02 PM               549 config
+09/18/2023  02:52 PM                73 description
+09/18/2023  02:52 PM                23 HEAD
+09/18/2023  02:52 PM    <DIR>          hooks
+09/19/2023  06:06 PM               839 index
+09/18/2023  02:52 PM    <DIR>          info
+09/18/2023  02:52 PM    <DIR>          logs
+09/19/2023  05:01 PM    <DIR>          objects
+09/19/2023  04:23 PM    <DIR>          refs
+               5 File(s)          1,492 bytes
+               6 Dir(s)  416,925,528,064 bytes free
+
