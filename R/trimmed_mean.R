@@ -8,7 +8,7 @@
 #' @author Samuel Soon
 #' @export
 #' @examples
-#' trimmed_mean(1:10,1,1)
+#' trimmed_mean(1:11,1,1)
 
 trimmed_mean <- function(x,s,l){
   xsort <- sort(x)
