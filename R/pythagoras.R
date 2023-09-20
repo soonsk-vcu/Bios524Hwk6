@@ -1,3 +1,16 @@
+#' pythagoras
+#'
+#' Computes third side of right triangle given two other sides
+#'
+#' @param a first side
+#' @param b second side
+#' @param c hypotenuse
+#' @export
+#' @author Samuel Soon
+#' @examples
+#' pythagoras(3,4)
+#'
+
 pythagoras <- function(a=0,b=0,c=0){
   # parameter typing and size check
   args <- c(a,b,c)
