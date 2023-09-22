@@ -4,7 +4,7 @@
 #'
 #' @param a first side
 #' @param b second side
-#' @param c hypotenuse
+#' @param c hypotenuse side
 #' @export
 #' @author Samuel Soon
 #' @examples
