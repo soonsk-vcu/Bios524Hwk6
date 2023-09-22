@@ -11,7 +11,7 @@ pythagoras(a = 0, b = 0, c = 0)
 
 \item{b}{second side}
 
-\item{c}{hypotenuse}
+\item{c}{hypotenuse side}
 }
 \description{
 Computes third side of right triangle given two other sides
